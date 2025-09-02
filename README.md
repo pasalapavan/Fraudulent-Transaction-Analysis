@@ -7,7 +7,7 @@ The objective is to analyze financial transaction data, detect fraudulent activi
 
 ## 📂 Project Structure
 
-├── app.py # Flask/Dash app for model deployment
+├── app.py # Streamlit app for model deployment
 
 ├── fraud_detection_pipeline.pkl # Trained fraud detection model (Pickle file)
 
